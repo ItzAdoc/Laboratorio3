@@ -22,6 +22,13 @@ __3. Explicación del Procedimiento__
 
 __4. Respuesta a Interrogantes y Calculo de Error__
 
+4.1. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
+
+4.2. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
+de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en
+la tabla 3.1.
+
+4.3. Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
 
 Cálculo de Error
@@ -30,7 +37,7 @@ Cálculo de Error
 
 __5. Video__
 
-https://www.youtube.com/watch?v=2VfxbLnzNWg
+
 
 __6. Coclusiones__ 
 * 
