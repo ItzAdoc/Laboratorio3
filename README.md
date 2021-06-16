@@ -54,7 +54,7 @@ la tabla 3.1.
 
 Cálculo de Error
 
-![]()
+![](https://github.com/ItzAdoc/imagenesL3/blob/main/P9.PNG)
 
 __5. Video__
 
