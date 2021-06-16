@@ -58,7 +58,7 @@ Cálculo de Error
 
 __5. Video__
 
-
+* https://youtu.be/FZrTkKrrlQc
 
 __6. Coclusiones__ 
 * Existen pequeños porcentajes de error en cuanto las corrientes halladas analíticamente y también en las medidas, debido a que analíticamente se ignoran muchos decimales y en los valores medidos intervienen en gran o menor medida las resistencias de los medidores (voltímetro y amperímetro). 
