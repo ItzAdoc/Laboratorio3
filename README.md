@@ -40,7 +40,7 @@ __3. Explicación del Procedimiento__
 __4. Respuesta a Interrogantes y Calculo de Error__
 
 4.1. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
-![](https://github.com/ItzAdoc/imagenesL3/blob/main/P8.PNG)
+![](https://github.com/ItzAdoc/imagenesL3/blob/main/P6.PNG)
 
 4.2. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en
@@ -54,7 +54,7 @@ la tabla 3.1.
 
 Cálculo de Error
 
-![](https://github.com/ItzAdoc/imagenesL3/blob/main/P9.PNG)
+![](https://github.com/ItzAdoc/imagenesL3/blob/main/P8.PNG)
 
 __5. Video__
 
