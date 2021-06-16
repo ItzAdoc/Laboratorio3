@@ -17,38 +17,47 @@ __2. Marco Teórico__
 
 
 __3. Explicación del Procedimiento__
+1. Partimos analizando en circuito propuesto
 
-1. identificamos los nodos principales (En este caso A y B) en los cuales vamos a trabajar para poder calcular los voltajes que deseamos encontrar.
+![](https://github.com/ItzAdoc/imagenesL3/blob/main/CircuVerda.PNG)
+
+2. identificamos los nodos principales (En este caso A y B) en los cuales vamos a trabajar para poder calcular los voltajes que deseamos encontrar.
 
 ![](https://github.com/ItzAdoc/imagenesL3/blob/main/P1.PNG)
 
-2. Realizamos un análisis del circuito para determinar el sentido de las corrientes que  pasaran por nuestros nodos ya identificados.
+3. Realizamos un análisis del circuito para determinar el sentido de las corrientes que  pasaran por nuestros nodos ya identificados.
+
 ![](https://github.com/ItzAdoc/imagenesL3/blob/main/P2.PNG)
 
-3. Después de analizar qué sentido que  tendrán las corrientes que entran a los nodos A y B aplicamos la ley de corriente de Kirchhoff y procederemos a realizar el cálculo correspondiente hasta hallar las ecuaciones resultantes.
+4. Después de analizar qué sentido que  tendrán las corrientes que entran a los nodos A y B aplicamos la ley de corriente de Kirchhoff y procederemos a realizar el cálculo correspondiente hasta hallar las ecuaciones resultantes.
 
 ![](https://github.com/ItzAdoc/imagenesL3/blob/main/P3.PNG)
 
-4. Procedemos a sustituir las corrientes por los valores conocidos,  aplicando la ley de ohm, la cual dice que la corriente será igual al voltaje sobre la resistencia.
+5. Procedemos a sustituir las corrientes por los valores conocidos,  aplicando la ley de ohm, la cual dice que la corriente será igual al voltaje sobre la resistencia.
 
 ![](https://github.com/ItzAdoc/imagenesL3/blob/main/P4.PNG)
 
-5. Aplicamos el método de Determinantes para obtener el valor de VA Y VB de nuestras dos ecuaciones.
+6. Aplicamos el método de Determinantes para obtener el valor de VA Y VB de nuestras dos ecuaciones.
+
 ![](https://github.com/ItzAdoc/imagenesL3/blob/main/P5.PNG)
 
 
 __4. Respuesta a Interrogantes y Calculo de Error__
 
-4.1. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
+4.1.Implemente el circuito que se representa en la figura 3.1.
+
+![](https://github.com/ItzAdoc/imagenesL3/blob/main/CircuVerda.PNG)
+
+4.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
 ![](https://github.com/ItzAdoc/imagenesL3/blob/main/P6.PNG)
 
-4.2. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
+4.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en
 la tabla 3.1.
 
 ![](https://github.com/ItzAdoc/imagenesL3/blob/main/P6.PNG)
 
-4.3. Compare los valores de la tabla 3.1 y realice sus conclusiones.
+4.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
 ![](https://github.com/ItzAdoc/imagenesL3/blob/main/P7.PNG)
 
