@@ -3,7 +3,7 @@
 __1. Objetivos__
 
 Objetivos Generales 
-* Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
+* Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y de Corrientes dentro de un circucito de resistencias.
 
 Objetivos Específicos 
 * Comprobar experimentalmente el análisis de mallas.
