@@ -3,7 +3,8 @@
 __1. Objetivos__
 
 Objetivos Generales 
-* 
+* Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
+
 Objetivos Específicos 
 * Comprobar experimentalmente el análisis de mallas.
 * Comparar los valores obtenidos experimentalmente, con los obtenidos del cálculo aplicando las leyes de Kirchhoff.
@@ -60,7 +61,9 @@ __5. Video__
 
 
 __6. Coclusiones__ 
-
+* Existen pequeños porcentajes de error en cuanto las corrientes halladas analíticamente y también en las medidas, debido a que analíticamente se ignoran muchos decimales y en los valores medidos intervienen en gran o menor medida las resistencias de los medidores (voltímetro y amperímetro). 
+* Aplicando ley de nodos y de mayas se determinó valores semejantes a los medidos, esto ocurrió así porque se aplico bien la ley de nodos y mayas. 
+* La ley de nodos está relacionada en la ley de la conservación de la carga así como la ley de mallas está relacionada con la ley de la conservación de la energía.
 
 __7. Bibliografía__
 * *Las leyes de Kirchhoff (artículo). (s. f.).* Khan Academy. Recuperado 2 de junio de 2021, de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
